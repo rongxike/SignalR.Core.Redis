@@ -1,0 +1,1447 @@
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Some of the classes from assembly "Microsoft.AspNet.SignalR.StackExchangeRedis, Version=2.4.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" could Not be loaded when searching for Hubs. [C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\vs\db4bde22\88981b28\assembly\dl3\a4be2776\00fbbe0e_f008d801\Microsoft.AspNet.SignalR.StackExchangeRedis.dll]
+Original exception type: ReflectionTypeLoadException
+Original exception message: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Loader exceptions messages: 
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Some of the classes from assembly "StackExchange.Redis, Version=2.0.0.0, Culture=neutral, PublicKeyToken=c219ff1ca8c2ce46" could Not be loaded when searching for Hubs. [C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\vs\db4bde22\88981b28\assembly\dl3\5e6a0064\00cbe0de_f48edb01\StackExchange.Redis.dll]
+Original exception type: ReflectionTypeLoadException
+Original exception message: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Loader exceptions messages: 
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Some of the classes from assembly "Pipelines.Sockets.Unofficial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=42ea0a778e13fbe2" could Not be loaded when searching for Hubs. [C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\vs\db4bde22\88981b28\assembly\dl3\bc157054\001f6cd5_957ed901\Pipelines.Sockets.Unofficial.dll]
+Original exception type: ReflectionTypeLoadException
+Original exception message: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Loader exceptions messages: 
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Some of the classes from assembly "Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.3, Culture=neutral, PublicKeyToken=adb9793829ddae60" could Not be loaded when searching for Hubs. [C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\vs\db4bde22\88981b28\assembly\dl3\a071a090\00819991_db7cdb01\Microsoft.Extensions.Logging.Abstractions.dll]
+Original exception type: ReflectionTypeLoadException
+Original exception message: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Loader exceptions messages: 
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Some of the classes from assembly "System.Diagnostics.DiagnosticSource, Version=9.0.0.3, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" could Not be loaded when searching for Hubs. [C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\vs\db4bde22\88981b28\assembly\dl3\062f1cdc\00244e72_da7cdb01\System.Diagnostics.DiagnosticSource.dll]
+Original exception type: ReflectionTypeLoadException
+Original exception message: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : Loader exceptions messages: 
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+
+SignalR.ReflectedHubDescriptorProvider Warning: 0 : System.IO.FileNotFoundException: Could not load file or assembly 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+

@@ -1,0 +1,10 @@
+SignalR.Transports.TransportHeartBeat Information: 0 : Connection df6bb2c0-e664-4811-987f-08eba2fb7717 is New.
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: df6bb2c0-e664-4811-987f-08eba2fb7717, transport: WebSocketTransport, message: {"C":"s-0,18","S":1,"M":[]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: df6bb2c0-e664-4811-987f-08eba2fb7717, transport: WebSocketTransport, message: {"C":"s-0,19","M":[{"H":"ChatHub","M":"broadcastMessage","A":["d","NGUYEN NGOC CUONG"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: df6bb2c0-e664-4811-987f-08eba2fb7717, transport: WebSocketTransport, message: {"I":"0"}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(df6bb2c0-e664-4811-987f-08eba2fb7717)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(df6bb2c0-e664-4811-987f-08eba2fb7717)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(df6bb2c0-e664-4811-987f-08eba2fb7717)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(df6bb2c0-e664-4811-987f-08eba2fb7717)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(df6bb2c0-e664-4811-987f-08eba2fb7717)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(df6bb2c0-e664-4811-987f-08eba2fb7717)

@@ -1,0 +1,13 @@
+SignalR.RedisMessageBus Information: 0 : Connecting...
+SignalR.RedisMessageBus Information: 0 : Connection opened
+SignalR.RedisMessageBus Verbose: 0 : Subscribed to event memurai
+SignalR.RedisMessageBus Information: 0 : Opening stream.
+SignalR.ScaleoutMessageBus Information: 0 : Stream(0) - Changed state from Initial to Open
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 24, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 24: '{"WaitForAck":false,"Id":"fa532961-f31e-4256-a366-48de0dd13851","CommandType":0,"Value":null}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 24, stream : 0, eventKey: 'c-df6bb2c0-e664-4811-987f-08eba2fb7717' saved with local id: 0
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: c-df6bb2c0-e664-4811-987f-08eba2fb7717
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 25, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 25: '{"H":"ChatHub","M":"broadcastMessage","A":["d","NGUYEN NGOC CUONG"]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 25, stream : 0, eventKey: 'h-ChatHub' saved with local id: 0
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub

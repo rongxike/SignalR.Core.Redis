@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{1EA34A62-E03E-45CF-A9C9-82D2DA0FCD82}</ProjectGuid>
+    <ProjectGuid>{AD069987-0D02-4A4C-9F9E-9FBB9D049DE9}</ProjectGuid>
     <ProjectTypeGuids>{349C5851-65DF-11DA-9384-00065B846F21};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -200,7 +200,7 @@
           <AutoAssignPort>False</AutoAssignPort>
           <DevelopmentServerPort>40476</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:40476/</IISUrl>
+          <IISUrl>http://localhost:40477</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

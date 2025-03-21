@@ -1,0 +1,42 @@
+SignalR.Transports.TransportHeartBeat Information: 0 : Connection 3a353f81-cece-4453-9744-253d34ae0c57 is New.
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,1A","S":1,"M":[]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,1B","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good","Miller Nguyen Ngoc Cuong"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"0"}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,1D","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","Miller Nguyen"]}]}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"1"}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,1E","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good","Nguyen Ngoc Nhu Mai"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"2"}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,1F","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good","Miller Nguyen Ngoc Cuong"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,20","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","Miller Nguyen Ngoc Cuong"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,21","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","Nguyen Ngoc Nhu Mai"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,22","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","Marina Bay sands ltd pte"]}]}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"3"}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,23","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good","NGUYEN NGOC CUONG"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,24","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good",""]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"4"}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,25","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","NGUYEN NGOC CUONG"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,26","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good","Marina Bay sands ltd pte"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"5"}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,27","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","Nguyen Ngoc Nhu Mai"]}]}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,28","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good","NGUYEN NGOC CUONG"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"6"}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,29","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","Marina Bay sands ltd pte"]}]}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"I":"7"}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,2A","M":[{"H":"ChatHub","M":"broadcastMessage","A":["good","Marina Bay sands ltd pte"]}]}
+SignalR.Transports.WebSocketTransport Verbose: 0 : Sending outgoing message. Connection id: 3a353f81-cece-4453-9744-253d34ae0c57, transport: WebSocketTransport, message: {"C":"s-0,2B","M":[{"H":"ChatHub","M":"broadcastMessage","A":["how","Miller Nguyen Ngoc Cuong"]}]}
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.TransportHeartBeat Verbose: 0 : KeepAlive(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Information: 0 : CloseSocket(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Information: 0 : Abort(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.TransportHeartBeat Information: 0 : Removing connection 3a353f81-cece-4453-9744-253d34ae0c57
+SignalR.Transports.WebSocketTransport Information: 0 : End(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Verbose: 0 : DrainWrites(3a353f81-cece-4453-9744-253d34ae0c57)
+SignalR.Transports.WebSocketTransport Information: 0 : CompleteRequest (3a353f81-cece-4453-9744-253d34ae0c57)
