@@ -1,0 +1,151 @@
+Great! Setting up **Redis Sentinel** with **Memurai** on Windows can help you monitor high availability and automatic failover for Redis instances.
+
+The official guide you shared is helpful, but let me walk you through a **clear step-by-step version**, based on that article and adding some practical CMD usage for Windows.
+
+---
+
+## 🧭 Goal:
+Run:
+- One **primary Memurai server**
+- One or more **Sentinel processes** monitoring that primary
+
+> **Note:** Memurai CE only allows one instance. For more advanced use (e.g., multiple Redis instances on the same machine), you’ll need **Memurai for Developers** or use multiple machines.
+
+---
+
+## ✅ Step-by-Step Guide: Set Up Redis Sentinel on Windows with Memurai
+
+---
+
+### 🔹 Step 1: Install Memurai
+
+If you haven’t already:
+
+1. Download Memurai: [https://www.memurai.com/download](https://www.memurai.com/download)
+2. Install it and make sure it's running.
+
+Test with:
+```cmd
+redis-cli.exe ping
+```
+✅ You should get:
+```
+PONG
+```
+
+---
+
+### 🔹 Step 2: Configure Memurai as a Redis Server
+
+Open the config file (usually found at):
+```
+C:\Program Files\Memurai\memurai.conf
+```
+
+Make sure the following lines are set:
+
+```conf
+port 6379
+bind 0.0.0.0
+protected-mode no
+```
+
+If you use a password:
+
+```conf
+requirepass YourSecurePassword
+```
+
+🔄 Then restart Memurai:
+```cmd
+net stop memurai
+net start memurai
+```
+
+---
+
+### 🔹 Step 3: Create Sentinel Config File
+
+Create a new file, for example:
+```
+C:\Memurai\sentinel.conf
+```
+
+Paste this inside:
+
+```conf
+port 26379
+sentinel monitor mymaster 127.0.0.1 6379 1
+sentinel down-after-milliseconds mymaster 5000
+sentinel failover-timeout mymaster 10000
+sentinel parallel-syncs mymaster 1
+```
+
+> 🔐 If you use a password in Memurai, also add:
+```conf
+sentinel auth-pass mymaster YourSecurePassword
+```
+
+---
+
+### 🔹 Step 4: Run Sentinel from CMD
+
+Go to your Memurai folder (where `memurai.exe` is located), and run:
+
+```cmd
+cd "C:\Program Files\Memurai\bin"
+memurai.exe sentinel C:\Memurai\sentinel.conf
+```
+
+✅ You should see output showing Sentinel is running and monitoring the master.
+
+---
+
+### 🔹 Step 5: Check if Sentinel is working
+
+Open another CMD window and try:
+
+```cmd
+redis-cli.exe -p 26379
+```
+
+Then inside the Redis CLI, run:
+
+```redis
+SENTINEL get-master-addr-by-name mymaster
+```
+
+It should return:
+
+```
+1) "127.0.0.1"
+2) "6379"
+```
+
+This means Sentinel knows the master.
+
+---
+
+## 🧪 Optional: Test Failover (Advanced)
+
+If you want to test failover:
+
+1. Stop the Memurai server:
+   ```cmd
+   net stop memurai
+   ```
+
+2. Watch Sentinel output — it will mark the master as down.
+
+---
+
+## 🧾 Summary of Files:
+
+| Component       | File Path                            |
+|----------------|---------------------------------------|
+| Memurai Config | `C:\Program Files\Memurai\memurai.conf` |
+| Sentinel Config| `C:\Memurai\sentinel.conf`            |
+
+---
+
+Let me know if you want to run multiple Redis/Memurai nodes on the same machine (using different ports), or simulate failover more realistically!

@@ -1,0 +1,97 @@
+SignalR.RedisMessageBus Information: 0 : Connecting...
+SignalR.RedisMessageBus Information: 0 : Connection opened
+SignalR.RedisMessageBus Verbose: 0 : Subscribed to event memurai
+SignalR.RedisMessageBus Information: 0 : Opening stream.
+SignalR.ScaleoutMessageBus Information: 0 : Stream(0) - Changed state from Initial to Open
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 1, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 1: '{"WaitForAck":false,"Id":"71a538eb-c43d-4c51-9df9-a0ef8fb8098f","CommandType":0,"Value":null}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 1, stream : 0, eventKey: 'c-e8f18b21-3cc1-4e1a-9309-286cf9102b9f' saved with local id: 0
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: c-e8f18b21-3cc1-4e1a-9309-286cf9102b9f
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 2, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 2: '{"H":"ChatHub","M":"broadcastMessage","A":["n","you"]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 2, stream : 0, eventKey: 'h-ChatHub' saved with local id: 0
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 3, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 3: '{"H":"ChatHub","M":"broadcastMessage","A":["n",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 3, stream : 0, eventKey: 'h-ChatHub' saved with local id: 1
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 4, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 4: '{"H":"ChatHub","M":"broadcastMessage","A":["n",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 4, stream : 0, eventKey: 'h-ChatHub' saved with local id: 2
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 5, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 5: '{"H":"ChatHub","M":"broadcastMessage","A":["n",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 5, stream : 0, eventKey: 'h-ChatHub' saved with local id: 3
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 6, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 6: '{"H":"ChatHub","M":"broadcastMessage","A":["n",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 6, stream : 0, eventKey: 'h-ChatHub' saved with local id: 4
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 7, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 7: '{"H":"ChatHub","M":"broadcastMessage","A":["n",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 7, stream : 0, eventKey: 'h-ChatHub' saved with local id: 5
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 8, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 8: '{"H":"ChatHub","M":"broadcastMessage","A":["n",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 8, stream : 0, eventKey: 'h-ChatHub' saved with local id: 6
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 9, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 9: '{"H":"ChatHub","M":"broadcastMessage","A":["n",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 9, stream : 0, eventKey: 'h-ChatHub' saved with local id: 7
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 10, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 10: '{"WaitForAck":false,"Id":"efbf8766-78d0-46b4-8077-f5e8c1678322","CommandType":0,"Value":null}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 10, stream : 0, eventKey: 'c-f575d5fb-38ee-49cc-8679-185678e1da85' saved with local id: 0
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: c-f575d5fb-38ee-49cc-8679-185678e1da85
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 11, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 11: '{"H":"ChatHub","M":"broadcastMessage","A":["me","NGUYEN NGOC CUONG"]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 11, stream : 0, eventKey: 'h-ChatHub' saved with local id: 8
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 12, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 12: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 12, stream : 0, eventKey: 'h-ChatHub' saved with local id: 9
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 13, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 13: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 13, stream : 0, eventKey: 'h-ChatHub' saved with local id: 10
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 14, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 14: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 14, stream : 0, eventKey: 'h-ChatHub' saved with local id: 11
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 15, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 15: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 15, stream : 0, eventKey: 'h-ChatHub' saved with local id: 12
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 16, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 16: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 16, stream : 0, eventKey: 'h-ChatHub' saved with local id: 13
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 17, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 17: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 17, stream : 0, eventKey: 'h-ChatHub' saved with local id: 14
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 18, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 18: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 18, stream : 0, eventKey: 'h-ChatHub' saved with local id: 15
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 19, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 19: '{"H":"ChatHub","M":"broadcastMessage","A":["me","what ?"]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 19, stream : 0, eventKey: 'h-ChatHub' saved with local id: 16
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 20, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 20: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 20, stream : 0, eventKey: 'h-ChatHub' saved with local id: 17
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 21, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 21: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 21, stream : 0, eventKey: 'h-ChatHub' saved with local id: 18
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 22, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 22: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 22, stream : 0, eventKey: 'h-ChatHub' saved with local id: 19
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
+SignalR.ScaleoutMessageBus Information: 0 : OnReceived(0, 23, 1)
+SignalR.ScaleoutMessageBus Verbose: 0 : Received message 23: '{"H":"ChatHub","M":"broadcastMessage","A":["me",""]}' over ScaleoutMessageBus
+SignalR.ScaleoutMessageBus Verbose: 0 : Message id: 23, stream : 0, eventKey: 'h-ChatHub' saved with local id: 20
+SignalR.ScaleoutMessageBus Verbose: 0 : Scheduling eventkeys: h-ChatHub
