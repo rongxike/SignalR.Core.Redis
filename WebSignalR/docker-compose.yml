@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  signalr:
+    build: .
+    ports:
+      - "8080:80"
+    networks:
+      - redisnet
+
+networks:
+  redisnet:
+    external: true

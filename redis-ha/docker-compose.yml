@@ -1,0 +1,89 @@
+services:
+
+  redis-master:
+    image: redis:7
+    container_name: redis-master
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes
+    networks:
+      redisnet:
+        ipv4_address: 172.20.0.11
+
+  redis-replica:
+    image: redis:7
+    container_name: redis-replica
+    depends_on:
+      - redis-master
+    ports:
+      - "6380:6379"
+    command: redis-server --appendonly yes --replicaof 172.20.0.11 6379
+    networks:
+      redisnet:
+        ipv4_address: 172.20.0.12
+
+  redis-replica2:
+    image: redis:7
+    container_name: redis-replica2
+    depends_on:
+      - redis-master
+    ports:
+      - "6381:6379"
+    command: redis-server --appendonly yes --replicaof 172.20.0.11 6379
+    networks:
+      redisnet:
+        ipv4_address: 172.20.0.13
+
+
+  redis-sentinel1:
+    image: redis:7
+    container_name: redis-sentinel1
+    depends_on:
+      - redis-master
+    ports:
+      - "26379:26379"
+    volumes:
+      - ./sen1:/redis-data
+    working_dir: /redis-data
+    command: redis-server sentinel.conf --sentinel
+    networks:
+      redisnet:
+        ipv4_address: 172.20.0.21
+
+  redis-sentinel2:
+    image: redis:7
+    container_name: redis-sentinel2
+    depends_on:
+      - redis-master
+    ports:
+      - "26380:26379"
+    volumes:
+      - ./sen2:/redis-data
+    working_dir: /redis-data
+    command: redis-server sentinel.conf --sentinel
+    networks:
+      redisnet:
+        ipv4_address: 172.20.0.22
+
+  redis-sentinel3:
+    image: redis:7
+    container_name: redis-sentinel3
+    depends_on:
+      - redis-master
+    ports:
+      - "26381:26379"
+    volumes:
+      - ./sen3:/redis-data
+    working_dir: /redis-data
+    command: redis-server sentinel.conf --sentinel
+    networks:
+      redisnet:
+        ipv4_address: 172.20.0.23
+
+networks:
+  redisnet:
+    name: redisnet
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

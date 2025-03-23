@@ -1,0 +1,32 @@
+services:
+  redis-s3:
+    image: redis:7
+    container_name: redis-s3
+    ports:
+      - "6381:6379"
+    volumes:
+      - ./s3-data:/data
+    command: redis-server --appendonly yes --replicaof 172.30.0.11 6379
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.13
+
+  sentinel-s3:
+    image: redis:7
+    container_name: sentinel-s3
+    ports:
+      - "26381:26379"
+    volumes:
+      - ./s3:/etc/redis  # Mount the entire directory to ensure Sentinel can write to it
+    command: redis-server /etc/redis/sentinel.conf --sentinel
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.23
+
+networks:
+  redisnet:
+    name: redisnet
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.30.0.0/16
